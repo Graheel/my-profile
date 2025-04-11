@@ -315,4 +315,19 @@ footer {
   color: black;
   margin-left: 52px;
 }
+@media (min-width: 586px) {
 
+  .project-gallery figcaption {
+    margin-top: 0.5rem;
+    font-size: 1.8rem;
+    color: black;
+    margin-left: 15px;
+  }
+
+}
+@media (min-width: 500px){
+  #contact span {
+    font-size: 0.75rem;
+    min-width: 1.5rem;
+  }
+}
