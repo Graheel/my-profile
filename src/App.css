@@ -325,7 +325,7 @@ footer {
   }
 
 }
-@media (min-width: 500px){
+@media (max-width: 500px){
   #contact span {
     font-size: 0.75rem;
     min-width: 1.5rem;
