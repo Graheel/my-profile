@@ -315,13 +315,13 @@ footer {
   color: black;
   margin-left: 52px;
 }
-@media (min-width: 586px) {
+@media (min-width: 430px) {
 
   .project-gallery figcaption {
     margin-top: 0.5rem;
     font-size: 1.8rem;
     color: black;
-    margin-left: 15px;
+    margin-left: 5px;
   }
 
 }
