@@ -144,8 +144,9 @@ ul li {
 
 
 a {
-  color: #0047ab;
+  color: blue;
   text-decoration: none;
+  font-size: xx-large;
   font-weight: 500;
   transition: color 0.3s ease;
 }
