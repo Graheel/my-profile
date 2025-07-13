@@ -43,8 +43,10 @@ function App() {
           <section>
             <h2>Education</h2>
             <ul>
-              <li>Class 1 to 8: St. Paul's Convent Sr. Sec. School, Ujjain</li>
-              <li>Class 9 to 12: Mahadaji Scindhiya Higher Secondary School, Ujjain</li>
+              <li>I completed my schooling from mahadji sindhiya higher secondary school, ujjain 
+                ,securing 81% in 12th and 79% in 10th </li>
+            
+      
             </ul>
           </section>
           <section>
