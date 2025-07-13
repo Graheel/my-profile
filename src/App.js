@@ -34,8 +34,8 @@ function App() {
           <section>
             <h2>About Me</h2>
             <p>
-              I am currently pursuing a Bachelor of Technology (B.Tech) degree at Chameli Devi Group of Institutions,
-              Khandwa Road, Indore. I am in my 4th and final year, currently in the 8th semester. I am passionate about
+              I had recently completed Bachelor of Technology (B.Tech) degree at Chameli Devi Group of Institutions,
+              Khandwa Road, Indore.I am passionate about
               learning new technologies and enhancing my development skills.
             </p>
           </section>
@@ -66,8 +66,8 @@ function App() {
             <h2>Hobbies</h2>
             <ul>
               <li>Playing video games for relaxation and stress relief</li>
-              <li>Solving both 3x3 and 4x4 Rubik's Cubes</li>
-              <li>Playing football daily as part of an active lifestyle</li>
+              <li>Solving puzzle problems</li>
+              <li>Daily participate in sports activities </li>
             </ul>
           </section>
         </div>
@@ -84,7 +84,7 @@ function App() {
   <li className="flex items-center gap-2"><FaCode className="text-gray-700" /> Express.js</li>
   <li className="flex items-center gap-2"><FaReact className="text-cyan-500" /> React.js</li>
   <li className="flex items-center gap-2"><FaNodeJs className="text-green-600" /> Node.js</li>
-  <li className="flex items-center gap-2"><FaGitAlt className="text-red-600" /> Git & VS Code</li>
+
 </ul>
           </section>
 
