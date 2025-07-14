@@ -34,7 +34,7 @@ function App() {
           <section>
             <h2>About Me</h2>
             <p>
-              I had recently completed Bachelor of Technology (B.Tech) degree at Chameli Devi Group of Institutions,
+              I had recently completed Bachelor of Technology (B.Tech) in computer science at Chameli Devi Group of Institutions,
               Khandwa Road, Indore.I am passionate about
               learning new technologies and enhancing my development skills.
             </p>
